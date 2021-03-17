@@ -50,4 +50,8 @@
 
 .hamburger{
     display: none;
+    cursor: pointer;
+    background-color: black;
+    border:none;
+    outline:none;
 }

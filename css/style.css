@@ -39,16 +39,33 @@ section{
         font-size: 16px !important;
     }
 
+    .content .img-myself{
+        text-align: center;
+    }
     .content .myself{
         position:static !important;
         height:100%;
         width:60%;
         margin:0 auto;
+        z-index: 100 !important;
     }
-    
+
+    .img-myself > .blue-eclipse{
+        display: none !important;
+    }
+
+    .img-myself > .yellow-eclipse{
+        display: none !important;
+    }
+
+    .img-myself > .red-eclipse{
+        display: none !important;
+    }
+
     .content .arrow{
         display: none !important;
     }
+
 }
 
 .self-introduction{
