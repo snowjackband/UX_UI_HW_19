@@ -1,11 +1,11 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="464" height="101" viewBox="0 0 464 101">
   <g id="Group_1399" data-name="Group 1399" transform="translate(-140 -1925)">
     <g id="Group_1287" data-name="Group 1287" transform="translate(-127 1792)">
-      <text id="_01._Research" data-name="01. Research" transform="translate(388 209)" fill="#db8521" font-size="72" font-family="Lato-Bold, Lato" font-weight="700"><tspan x="0" y="0">01.</tspan><tspan y="0" xml:space="preserve" font-size="56"> Research</tspan></text>
-      <rect id="Rectangle_1140" data-name="Rectangle 1140" width="90" height="10" transform="translate(388 220)" fill="#33332f"/>
+      <text id="_01._Research" data-name="01. Research" transform="translate(388 209)" fill="#fff" font-size="72" font-family="Lato-Bold, Lato" font-weight="700"><tspan x="0" y="0">01.</tspan><tspan y="0" xml:space="preserve" font-size="56"> Research</tspan></text>
+      <rect id="Rectangle_1140" data-name="Rectangle 1140" width="90" height="10" transform="translate(388 220)" fill="#fff"/>
     </g>
     <g id="Group_1317" data-name="Group 1317" transform="translate(-60 1658)">
-      <circle id="Ellipse_82" data-name="Ellipse 82" cx="50.5" cy="50.5" r="50.5" transform="translate(200 267)" fill="#db8521"/>
+      <circle id="Ellipse_82" data-name="Ellipse 82" cx="50.5" cy="50.5" r="50.5" transform="translate(200 267)" fill="#144cdf"/>
       <g id="XMLID_34_" transform="translate(216.178 283.515)">
         <g id="XMLID_1873_" transform="translate(0 0)">
           <path id="XMLID_1877_" d="M213.357,52.349a17.706,17.706,0,1,0,17.706,17.706A17.726,17.726,0,0,0,213.357,52.349Zm0,2.683a15.023,15.023,0,1,1-15.023,15.023A15.04,15.04,0,0,1,213.357,55.032Z" transform="translate(-169.408 -45.327)" fill="#fff"/>

@@ -1,7 +1,7 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="452" height="101" viewBox="0 0 452 101">
   <g id="Group_1403" data-name="Group 1403" transform="translate(-140 -6960)">
     <g id="Group_1381" data-name="Group 1381" transform="translate(0 169)">
-      <circle id="Ellipse_82" data-name="Ellipse 82" cx="50.5" cy="50.5" r="50.5" transform="translate(140 6791)" fill="#db8521"/>
+      <circle id="Ellipse_82" data-name="Ellipse 82" cx="50.5" cy="50.5" r="50.5" transform="translate(140 6791)" fill="#144cdf"/>
       <g id="light-bulb" transform="translate(154.487 6796.873)">
         <g id="Group_1310" data-name="Group 1310" transform="translate(0)">
           <g id="Group_1309" data-name="Group 1309">
@@ -21,8 +21,8 @@
       </g>
     </g>
     <g id="Group_1382" data-name="Group 1382" transform="translate(-39 169)">
-      <text id="_03._Ideation_" data-name="03. Ideation " transform="translate(300 6867)" fill="#db8521" font-size="72" font-family="Lato-Bold, Lato" font-weight="700"><tspan x="0" y="0">03.</tspan><tspan y="0" xml:space="preserve" font-size="56"> Ideation </tspan></text>
-      <rect id="Rectangle_1142" data-name="Rectangle 1142" width="90" height="10" transform="translate(300 6878)" fill="#33332f"/>
+      <text id="_03._Ideation_" data-name="03. Ideation " transform="translate(300 6867)" fill="#fff" font-size="72" font-family="Lato-Bold, Lato" font-weight="700"><tspan x="0" y="0">03.</tspan><tspan y="0" xml:space="preserve" font-size="56"> Ideation </tspan></text>
+      <rect id="Rectangle_1142" data-name="Rectangle 1142" width="90" height="10" transform="translate(300 6878)" fill="#fff"/>
     </g>
   </g>
 </svg>
